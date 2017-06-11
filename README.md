@@ -3,11 +3,17 @@ Firmware for TKTalkie v3 - www.tktalkie.com
 
 ## Latest Version: 3.11
 
-Although this version of the software has been field-tested over several months, it still should be considered BETA...for now.  There are a few more things that can be done to "clean up" the code a little and organize it a bit better, so check back for updates.  Features for this version have been locked, however, so any code updates are for optimization purposes only.
-
 ## About
-The TKTalkie software is part of the TKTalkie DIY project.  This revision has some significant changes designed to making it event easier to configure and use the system through the use of a BLE (Bluetooth Low Energy) device and a mobile app (iOS/Android) and contains the following improvements:
+The TKTalkie software is part of the TKTalkie DIY project.  This revision has some significant changes designed to make it even easier to configure and use the system through the use of a BLE (Bluetooth Low Energy) device and a mobile app (iOS/Android) and contains the following improvements:
 
+### New in version 3.11:
+In order to support updates to the mobile app, the following updates were made:
+
+  - Support for ability to select from different folders on the SD card when creating custom profiles
+  - Support for new command key 'mute_loop=0/1' to set where or not the background loops mutes when talking (defaults to 1 = true)
+  - Support for new command 'ls' which will list the folders on the SD card.
+  - Fixed bug when requesting loop directory files be sent to app.
+  
 ### New in version 3:
   - Support for BLE (Bluetooth Low Energy) boards used to communicate with TKTalkie App (iOS/Android) to control TKTalkie devices allowing you to modify settings, save profiles and more.
   - Ability to have mulitple profiles (allows you to use TKTalkie for different costume applications)
