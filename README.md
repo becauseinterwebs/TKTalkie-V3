@@ -1,7 +1,11 @@
 # TKTalkie V3
 Firmware for TKTalkie v3 - www.tktalkie.com
 
+**YOU ARE FREE TO USE THIS CODE IN YOUR OWN PROJECTS, PROVIDED THEY ARE FOR PERSONAL, NON-COMMERCIAL USE.**
+
 ## Latest Version: 3.11
+
+**Visit www.tktalkie.com for support, downloads and more.**
 
 ## About
 The TKTalkie software is part of the TKTalkie DIY project.  This revision has some significant changes designed to make it even easier to configure and use the system through the use of a BLE (Bluetooth Low Energy) device and a mobile app (iOS/Android) and contains the following improvements:
