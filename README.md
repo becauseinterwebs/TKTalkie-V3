@@ -1,3 +1,7 @@
+**WINDOWS USERS**  
+DO NOT copy and paste the source code from this page or your sketch will not compile.  You will receive an error "Stray \302" when you try to compile. This is due to the way Windows saves the copied code.  Instead use the **DOWNLOAD** button to download a zip file.
+___
+
 # TKTalkie V3
 Firmware for TKTalkie v3 - www.tktalkie.com
 
